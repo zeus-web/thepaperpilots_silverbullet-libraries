@@ -1,4 +1,5 @@
 ---
+name: Library/thepaperpilot/CBT
 description: "Collection of utilites for journaling based on CBT and BuJo"
 tags: meta/library
 files:
